@@ -98,9 +98,8 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
 ## 📊 Estatísticas do GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueFreire&show_icons=true&theme=radical" alt="HenriqueFreire GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFreire&theme=radical" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFreire&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFreire&theme=radical" alt="GitHub Streak" />
 </p>
 
 ---
