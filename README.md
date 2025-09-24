@@ -2,7 +2,7 @@
 
 Desenvolvedor de Software apaixonado por transformar desafios em soluções tecnológicas eficientes e inovadoras. Com sólida experiência em **Node.js** e **JavaScript**, dedico-me a construir sistemas robustos e escaláveis, com foco em desenvolvimento **Back-end**.
 
-Minha jornada profissional me proporcionou desenvolver fortes habilidades em análise e **resolução de problemas**, sempre buscando aprimorar minhas competências técnicas e me manter atualizado com as últimas tendências do mercado, incluindo **Machine Learning** e **Web3**.
+Minha jornada profissional me proporcionou desenvolver fortes habilidades em análise e **resolução de problemas**, sempre buscando aprimorar minhas competências técnicas e me manter atualizado com as últimas tendências do mercado, incluindo **Machine Learning** e **Nix**.
 
 Sou um profissional proativo, criativo e estratégico, que valoriza a **colaboração** e o **compartilhamento de conhecimento** em equipe. Acredito que a comunicação eficaz é fundamental para o sucesso de qualquer projeto.
 
@@ -43,13 +43,13 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
 
 ## 💡 Projetos em Destaque
 
-<table>
+<table>https://github.com/HenriqueFreire/zenon-betoneiras/blob/main/frontend/src/images/banner.png
   <tr>
     <td width="50%">
       <h3 align="center">Zenon Betoneiras</h3>
       <p align="center">
         <a href="https://github.com/HenriqueFreire/zenon-betoneiras" target="_blank">
-          <img src="https://raw.githubusercontent.com/HenriqueFreire/zenon-betoneiras/main/screenshots/home-client.png" alt="Zenon Betoneiras" width="100%">
+          <img src="https://raw.githubusercontent.com/HenriqueFreire/zenon-betoneiras/main/frontend/src/images/banner.png" alt="Zenon Betoneiras" width="100%">
         </a>
         <br>
         <em>Aplicação web full-stack para gerenciamento de aluguel de betoneiras.</em>
@@ -77,27 +77,13 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
   </tr>
   <tr>
     <td width="50%">
-      <h3 align="center">My Personal Finance</h3>
-      <p align="center">
-        <a href="https://github.com/HenriqueFreire/my-personal-finance" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=My+Personal+Finance" alt="My Personal Finance" width="100%">
-        </a>
-        <br>
-        <em>Aplicação para gerenciamento de finanças pessoais, com ambiente de desenvolvimento reproduzível usando Nix.</em>
-        <br><br>
-        <strong>Tecnologias:</strong> Node.js, Nix, Shell.
-        <br><br>
-        <a href="https://github.com/HenriqueFreire/my-personal-finance" target="_blank">Ver Código</a>
-      </p>
-    </td>
-    <td width="50%">
       <h3 align="center">Sistema de Reconhecimento Facial</h3>
       <p align="center">
         <a href="https://github.com/HenriqueFreire/DIO/tree/main/Bootcamps/Criando%20um%20Sistema%20de%20Reconhecimento%20Facial%20do%20Zero" target="_blank">
-          <img src="https://via.placeholder.com/400x200?text=Reconhecimento+Facial" alt="Facial Recognition" width="100%">
+          <img src="recognized_7.jpeg" alt="Facial Recognition" width="100%">
         </a>
         <br>
-        <em>Implementação de um sistema de detecção e reconhecimento facial do zero.</em>
+        <em>Implementação de um sistema de detecção e reconhecimento facial.</em>
         <br><br>
         <strong>Tecnologias:</strong> Python, OpenCV, Dlib.
         <br><br>
