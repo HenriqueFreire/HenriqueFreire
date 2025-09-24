@@ -43,7 +43,7 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
 
 ## 💡 Projetos em Destaque
 
-<table>https://github.com/HenriqueFreire/zenon-betoneiras/blob/main/frontend/src/images/banner.png
+<table>
   <tr>
     <td width="50%">
       <h3 align="center">Zenon Betoneiras</h3>
