@@ -99,6 +99,8 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFreire&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HenriqueFreire&theme=radical" alt="GitHub Streak" />
 </p>
 
@@ -119,5 +121,6 @@ Busco constantemente oportunidades desafiadoras que me permitam expandir meu con
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=HenriqueFreire" alt="HenriqueFreire" /> </p>
 
 <!-- GIF de codificação -->
+<p align="center">
 <img align="right" alt="GIF" src="https://github.com/HenriqueFreire/HenriqueFreire/blob/master/code.gif?raw=true" width="70%" height="400px" />
-
+</p>
