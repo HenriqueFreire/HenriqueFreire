@@ -1,4 +1,4 @@
-# Olá, eu sou o Henrique Freire! 👋
+# Olá, eu sou o Henrique! 👋
 
 Desenvolvedor de Software apaixonado por transformar desafios em soluções tecnológicas eficientes e inovadoras. Com sólida experiência em **Node.js** e **JavaScript**, dedico-me a construir sistemas robustos e escaláveis, com foco em desenvolvimento **Back-end**.
 
