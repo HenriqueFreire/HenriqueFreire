@@ -34,7 +34,7 @@ Estudante apaixonado por tecnologia, explorando as fronteiras entre o hardware e
 
 ---
 
-### 📊 Most Used Languages
+### 📊 Linguagens mais usadas
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFreire&layout=compact&theme=radical&hide_border=true" alt="Henrique's Most Used Languages" />
 </p>
