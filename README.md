@@ -34,9 +34,9 @@ Estudante apaixonado por tecnologia, explorando as fronteiras entre o hardware e
 
 ---
 
-### 📊 GitHub Stats
+### 📊 Most Used Languages
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=HenriqueFreire&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Henrique's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HenriqueFreire&layout=compact&theme=radical&hide_border=true" alt="Henrique's Most Used Languages" />
 </p>
 
 ---
